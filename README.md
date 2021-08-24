@@ -5,8 +5,8 @@
 ## 当日やること
 
 - Zoom を使います。
-  - Zoom のミーティングIDは [こちらのTeamsのチーム](https://teams.microsoft.com/l/channel/19%3arb_ceU8rgCj9829ug3ZSwPIJFzzAOHu_kkofGin04cs1%40thread.tacv2/%25E4%25B8%2580%25E8%2588%25AC?groupId=eccbb666-4007-4ab5-b57c-0b0276ee53c6&tenantId=9e5b5dfd-669d-4ef8-b240-4229cbf4a83d0) を参照してください。
-- Google Colaboratory を使えます。
+  - Zoom のミーティングIDは [こちらのTeamsのチーム](https://teams.microsoft.com/l/channel/19%3arb_ceU8rgCj9829ug3ZSwPIJFzzAOHu_kkofGin04cs1%40thread.tacv2/%25E4%25B8%2580%25E8%2588%25AC?groupId=eccbb666-4007-4ab5b57c-0b0276ee53c6&tenantId=9e5b5dfd-669d-4ef8-b240-4229cbf4a83d0) を参照してください。
+- Google Colaboratory を使います。
 
 ## 事前に受講者にやっていただくこと
 
